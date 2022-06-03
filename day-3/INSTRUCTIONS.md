@@ -26,22 +26,22 @@ Your repository should have these files
 
 #### 7. Deploy your site onto GitHub Pages
 
-Go to Settings
+Go to Settings <br />
 ![image](https://user-images.githubusercontent.com/73497800/171903633-3da3d12f-2ebf-4e9d-ba66-f76e43a16740.png)
 
-Then select the pages option
+Then select the pages option <br />
 ![image](https://user-images.githubusercontent.com/73497800/171903846-f722e59f-4094-45be-8865-690df0c32a8f.png)
 
-From the dropdown select the branch main
+From the dropdown select the branch main <br />
 ![image](https://user-images.githubusercontent.com/73497800/171903992-2cc58d6a-09dc-476b-981e-a72305b8af0a.png)
 
-Click on save
+Click on save <br />
 ![image](https://user-images.githubusercontent.com/73497800/171904102-e982a6b2-2818-465c-9a5e-465b539c925e.png)
 
-After a couple of minutes you should be able to get a URL of the site, like this
+After a couple of minutes you should be able to get a URL of the site, like this <br />
 ![image](https://user-images.githubusercontent.com/73497800/171904240-ad6b9c5d-8238-4dcf-b1d3-5fcf642ecc91.png)
 
-If everything works on your site, you're done ! 
+If everything works on your site, you're done ! <br />
 Fill in the form given in the group with your GitHub repository link and your GitHub Pages site link.
 
 
